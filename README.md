@@ -2,7 +2,7 @@
 
 ## Data_stock_market_return.mat
 
-It contains the final data set. The observations of the stock market indices come from `https://fr.finance.yahoo.com/`. The data set for this study consists of 3514 valid data points for each serie (from 16th December 2002 to 14th December 2017).
+It contains the final data set. The observations of the stock market indices come from `https://fr.finance.yahoo.com/`. The data set for this study consists of 3514 valid data points for each series (from 16th December 2002 to 14th December 2017).
 
 ## Functions_code_Matlab
 
